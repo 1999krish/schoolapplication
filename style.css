@@ -1,0 +1,21 @@
+h1{
+    color:beige;
+    
+}
+body
+{
+    background: url(sign\ in\ 1.jpeg) no-repeat;
+    background-size: cover;
+}
+
+.container{
+    position: absolute;
+    margin-top: 50px;
+    right: 50px;
+    font-size: medium;
+    color: beige;
+}
+.box{
+    
+
+}
